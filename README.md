@@ -1,9 +1,5 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![reference-none-ru](https://github.com/user-attachments/assets/72f090a6-58c7-424d-8467-be68af7d32b8)
-![reference-none-en](https://github.com/user-attachments/assets/1850b589-c5e8-4bb4-9218-d61c3100dac5)
-
-
 В этом уроке мы угадываем тонику, доминанту и субдоминанту в одной тональности, но в нескольких разных октавах.
 
 Всего в уроке 12 упражнений. 
@@ -16,6 +12,8 @@
 То есть всего мы охватываем больше двух октав в одной тональности. 
 
 Попробуйте пройти этот урок, прослушав тонику только в первом упражнении. А потом включите вариант настройки "Нет". Чтобы все остальные упражнения проходить уже по памяти.
+
+![reference-none-ru](https://github.com/user-attachments/assets/72f090a6-58c7-424d-8467-be68af7d32b8)
 
 Это будет особенно сложно в тех местах, где происходит резкий скачок нижней ноты:
 
@@ -43,7 +41,8 @@ And in the final two (11 and 12), the lower note is the fourth degree, one octav
 
 So in total, we cover more than two octaves within a single key.
 
-Try taking this lesson by listening to the tonic only in the first exercise. Then switch the setting option to “None” so that you complete all the remaining exercises from memory.  
+Try taking this lesson by listening to the tonic only in the first exercise. Then switch the reference option to “None” so that you complete all the remaining exercises from memory.  
+![reference-none-en](https://github.com/user-attachments/assets/1850b589-c5e8-4bb4-9218-d61c3100dac5)
 
 This will be especially challenging where the lower note makes a sudden jump:
 
