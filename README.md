@@ -11,7 +11,7 @@
 
 То есть всего мы охватываем больше двух октав в одной тональности. 
 
-Попробуйте пройти этот урок, прослушав тонику только в первом упражнении. А потом включите вариант настройки "Нет". Чтобы все остальные упражнения проходить уже по памяти.
+Попробуйте пройти этот урок, прослушав настройку только в первом упражнении. А потом включите вариант настройки "Нет". Чтобы все остальные упражнения проходить уже по памяти.
 
 ![reference-none-s-ru](https://github.com/user-attachments/assets/86d61ebe-7d45-4e31-a54b-f024ed575c96)
 
@@ -41,7 +41,7 @@ And in the final two (11 and 12), the lower note is the fourth degree, one octav
 
 So in total, we cover more than two octaves within a single key.
 
-Try taking this lesson by listening to the tonic only in the first exercise. Then switch the reference option to “None” so that you complete all the remaining exercises from memory.  
+Try taking this lesson by listening to the reference only in the first exercise. Then switch the reference option to “None” so that you complete all the remaining exercises from memory.  
 
 ![reference-none-s-en](https://github.com/user-attachments/assets/b53cf5be-6ee3-4844-ab6e-22820c9b5277)
 
