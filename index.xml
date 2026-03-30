@@ -2,11 +2,11 @@
 <level>
   <owner>wolskp</owner>
   <repo>subdominant-1-4-5</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="subdominant-low-4"/>
   <readme>
-    <en>31abb22e19fcb3fd273682e3bbbee11ee75c7d8103f70e5ae4d34245265e17dc</en>
-    <ru>88140bbc4c0c91845e53f8a8ed71f47a5ff3535e53912fa2752cfd4bdb60b0d6</ru>
+    <ru>cc14b1232e6ea80bca7672b65525fea9d0ea620bae0ccb8e8cc4a03957800fba</ru>
+    <en>8ac60c816f8b6ae1f152e7fd5ac2bdf0b832d30bcabe7f62e4014b5456c6c4f3</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
