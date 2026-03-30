@@ -1,5 +1,9 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
+![reference-none-ru](https://github.com/user-attachments/assets/72f090a6-58c7-424d-8467-be68af7d32b8)
+![reference-none-en](https://github.com/user-attachments/assets/1850b589-c5e8-4bb4-9218-d61c3100dac5)
+
+
 В этом уроке мы угадываем тонику, доминанту и субдоминанту в одной тональности, но в нескольких разных октавах.
 
 Всего в уроке 12 упражнений. 
