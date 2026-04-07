@@ -21,7 +21,7 @@
 с <span class="text-h4" style="color: rgb(0,128,128)">❶</span> на <span class="text-h4" style="color: rgb(0,130,200)">❺⬆️</span>
 
 И 9 упражнение, нижняя идет почти на две октавы вниз: 
-с <span class="text-h4" style="color: rgb(0,128,128)">❹⬆️</span> на <span class="text-h4" style="color: rgb(0,130,200)">❺⬇️</span>
+с <span class="text-h4" style="color: rgb(240,50,230)">❹⬆️</span> на <span class="text-h4" style="color: rgb(0,130,200)">❺⬇️</span>
 
 
 ![](https://github.com/user-attachments/assets/d03dbb5b-a2ff-4feb-be29-1f7078610576)
@@ -51,7 +51,7 @@ Exercise 5, when the lower note jumps up by one and a half octaves:
 from <span class="text-h4" style="color: rgb(0,128,128)">❶</span> to <span class="text-h4" style="color: rgb(0,130,200)">❺⬆️</span>
 
 And exercise 9, when the lower note goes down by almost two octaves:  
-from <span class="text-h4" style="color: rgb(0,128,128)">❹⬆️</span> to <span class="text-h4" style="color: rgb(0,130,200)">❺⬇️</span>
+from <span class="text-h4" style="color: rgb(240,50,230)">❹⬆️</span> to <span class="text-h4" style="color: rgb(0,130,200)">❺⬇️</span>
 
 ![](https://github.com/user-attachments/assets/d03dbb5b-a2ff-4feb-be29-1f7078610576)
 
